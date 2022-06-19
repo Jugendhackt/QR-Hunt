@@ -7,12 +7,12 @@ Die Idee hinter QR-Hunt ist es, dass Junge Menschen rausgehen und neue Sachen in
 hier für können sie mit QR-Hunt Qr Codes in der Stadt suchen, diese dann ein Scannen und diese dann digital Sammeln.
 
 ## Instalation
-#### Backend
+#### [Backend](https://github.com/Jugendhackt/QR-Hunt-Backend)
 + `git clone https://github.com/Jugendhackt/QR-Hunt-Backend`
 + `cd QR-Hunt-Backend`
 + `cargo build`
 + `cargo run`
-#### Frontend
+#### [Frontend](https://github.com/Jugendhackt/QR-Hunt-Frontend)
 + `git clone https://github.com/Jugendhackt/QR-Hunt-Frontend`
 + `cd QR-Hunt-Frontend`
 + Packages installieren: <code>yarn</code> bzw. <code>npm install</code> <br>
