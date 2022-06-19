@@ -1,6 +1,7 @@
 # QR-Hunt
 Jugendhackt FFM 2022
 <i>Copyright 2022 Finn, Thomas, Oskar, Iven, Jan, Pascal und Liora</i>
+![Screenshot.](https://github.com/Jugendhackt/QR-Hunt/blob/main/start.png)
 ## Projekt Idee
 Die Idee hinter QR-Hunt ist es, dass Junge Menschen rausgehen und neue Sachen in Städten entdecken,
 hier für können sie mit QR-Hunt Qr Codes in der Stadt suchen, diese dann ein Scannen und diese dann digital Sammeln.
